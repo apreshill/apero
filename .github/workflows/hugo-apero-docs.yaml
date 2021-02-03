@@ -26,7 +26,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          Rscript -e 'blogdown::hugo_build(baseURL = "https://apreshill.github.io/apero/")'
+          Rscript -e 'blogdown::build_site()'
           cd public/
           touch .nojekyll
           
