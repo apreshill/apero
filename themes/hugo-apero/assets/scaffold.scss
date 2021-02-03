@@ -522,8 +522,8 @@ html, body {
 
 
 // Fontawesome icons
-{{ $fa-path := "../webfonts" | absURL }}   
-$fa-font-path: '{{ $fa-path }}';
+{{ $fapath := "../webfonts" | relURL }}   
+$fa-font-path: '{{ $fapath }}';
 @import "fontawesome-free-5.15.1-web/scss/fontawesome.scss";
 @import "fontawesome-free-5.15.1-web/scss/solid.scss";
 @import "fontawesome-free-5.15.1-web/scss/regular.scss";

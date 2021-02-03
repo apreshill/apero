@@ -1,4 +1,4 @@
-baseURL = "https://hugo-apero-docs.netlify.app/blog/"
+baseURL = "https://hugo-apero-docs.netlify.app/"
 languageCode = "en"
 theme = "hugo-apero"
 title = "test"
