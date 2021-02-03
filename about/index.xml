@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on test</title>
-    <link>https://apreshill.github.io/apero/about/</link>
+    <link>https://hugo-apero-docs.netlify.app/about/</link>
     <description>Recent content in About on test</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://apreshill.github.io/apero/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://hugo-apero-docs.netlify.app/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
