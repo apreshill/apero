@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://apreshill.github.io/apero/"
 languageCode = "en"
 theme = "hugo-apero"
 title = "test"
