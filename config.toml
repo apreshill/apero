@@ -1,7 +1,7 @@
 baseURL = "https://apreshill.github.io/apero/"
 languageCode = "en"
 theme = "hugo-apero"
-title = "test"
+title = "Hello"
 author = "me"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
