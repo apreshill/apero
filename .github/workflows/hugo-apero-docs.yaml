@@ -15,26 +15,40 @@ jobs:
       
       - uses: r-lib/actions/setup-r@v1
 
-      - name: Install dependencies
+      - name: Clean public directory
+        run: rm -rf public
+
+      - name: Install blogdown
         run: |
           install.packages("blogdown")
+        shell: Rscript {0}
+
+      - name: Install hugo
+        run: |
           blogdown::install_hugo("0.79.0", extended = TRUE, force = TRUE)
+        shell: Rscript {0}
+
+      - name: Install theme
+        run: |
           blogdown::install_theme(theme="hugo-apero/hugo-apero@main", force=TRUE)
         shell: Rscript {0}
 
       - name: Build website
         run: |
-          rm -rf public
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           Rscript -e 'blogdown::build_site()'
+
+      - name: Add nojekyll
+        run: |
           cd public/
           touch .nojekyll
           
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@3.6.2
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: public # The folder the action should deploy.
-          CLEAN: true # Automatically remove deleted files from the deploy branch
+          deploy_key: ${{secrets.ACTIONS_DEPLOY_KEY}}
+          publish_dir: ./public
+          user_name: Alison Hill
+          user_email: apresstats@gmail.com
+          publish_branch: gh-pages
