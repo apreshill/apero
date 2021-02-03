@@ -18,7 +18,7 @@ jobs:
       - name: Install dependencies
         run: |
           install.packages("blogdown")
-          blogdown::install_theme(theme="hugo-apero/hugo-apero", force=TRUE)
+          blogdown::install_theme(theme="hugo-apero/hugo-apero@main", force=TRUE)
         shell: Rscript {0}
 
       - name: Build website
