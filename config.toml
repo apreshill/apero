@@ -1,8 +1,8 @@
-baseURL = "https://apreshill.github.io/apero/"
+baseURL = "/"
 languageCode = "en"
 theme = "hugo-apero"
 title = "test"
-author = "Alison Hill"
+author = "me"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus

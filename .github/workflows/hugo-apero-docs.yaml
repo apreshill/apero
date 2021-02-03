@@ -26,7 +26,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          Rscript -e 'blogdown::build_site(baseURL = "https://apreshill.github.io/apero/")'
+          Rscript -e 'blogdown::hugo_build(baseURL = "https://apreshill.github.io/apero/")'
           
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.6.2
