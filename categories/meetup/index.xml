@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>meetup on test</title>
-    <link>https://hugo-apero-docs.netlify.app/blog/categories/meetup/</link>
+    <link>https://hugo-apero-docs.netlify.app/categories/meetup/</link>
     <description>Recent content in meetup on test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Jan 2021 14:15:59 -0600</lastBuildDate><atom:link href="https://hugo-apero-docs.netlify.app/blog/categories/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 14:15:59 -0600</lastBuildDate><atom:link href="https://hugo-apero-docs.netlify.app/categories/meetup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A seedling</title>
-      <link>https://hugo-apero-docs.netlify.app/blog/talk/second-seedling/</link>
+      <link>https://hugo-apero-docs.netlify.app/talk/second-seedling/</link>
       <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
       
-      <guid>https://hugo-apero-docs.netlify.app/blog/talk/second-seedling/</guid>
+      <guid>https://hugo-apero-docs.netlify.app/talk/second-seedling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A seedling</title>
-      <link>https://hugo-apero-docs.netlify.app/blog/talk/seedling/</link>
+      <link>https://hugo-apero-docs.netlify.app/talk/seedling/</link>
       <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
       
-      <guid>https://hugo-apero-docs.netlify.app/blog/talk/seedling/</guid>
+      <guid>https://hugo-apero-docs.netlify.app/talk/seedling/</guid>
       <description></description>
     </item>
     
