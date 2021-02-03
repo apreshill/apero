@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://apreshill.github.io/apero/"
 languageCode = "en"
 theme = "hugo-apero"
 title = "test"
@@ -13,7 +13,7 @@ paginate = 5
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
-canonifyURLs = true
+relativeURLs = true
 
 [markup]
   defaultMarkdownHandler = "goldmark"
