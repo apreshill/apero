@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Day 02 on test</title>
+    <title>Day 02 on Hello</title>
     <link>/collection/day02/</link>
-    <description>Recent content in Day 02 on test</description>
+    <description>Recent content in Day 02 on Hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 26 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/collection/day02/index.xml" rel="self" type="application/rss+xml" />

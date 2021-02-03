@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>meetup on test</title>
+    <title>meetup on Hello</title>
     <link>/categories/meetup/</link>
-    <description>Recent content in meetup on test</description>
+    <description>Recent content in meetup on Hello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 Jan 2021 14:15:59 -0600</lastBuildDate><atom:link href="/categories/meetup/index.xml" rel="self" type="application/rss+xml" />
