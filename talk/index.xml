@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks that Last on test</title>
-    <link>/talk/</link>
+    <link>https://apreshill.github.io/apero/talk/</link>
     <description>Recent content in Talks that Last on test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apreshill.github.io/apero/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A campfire</title>
-      <link>/talk/campfire/</link>
+      <link>https://apreshill.github.io/apero/talk/campfire/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/talk/campfire/</guid>
+      <guid>https://apreshill.github.io/apero/talk/campfire/</guid>
       <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
     </item>
     
     <item>
       <title>A seedling</title>
-      <link>/talk/second-seedling/</link>
+      <link>https://apreshill.github.io/apero/talk/second-seedling/</link>
       <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
       
-      <guid>/talk/second-seedling/</guid>
+      <guid>https://apreshill.github.io/apero/talk/second-seedling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A seedling</title>
-      <link>/talk/seedling/</link>
+      <link>https://apreshill.github.io/apero/talk/seedling/</link>
       <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
       
-      <guid>/talk/seedling/</guid>
+      <guid>https://apreshill.github.io/apero/talk/seedling/</guid>
       <description></description>
     </item>
     
