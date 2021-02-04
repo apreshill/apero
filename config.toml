@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://hugo-apero-docs.netlify.app/"
 languageCode = "en"
 theme = "hugo-apero"
 title = "My deploy preview"
