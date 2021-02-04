@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>evergreen on Hello</title>
-    <link>/categories/evergreen/</link>
-    <description>Recent content in evergreen on Hello</description>
+    <title>evergreen on My deploy preview</title>
+    <link>https://apreshill.github.io/apero/categories/evergreen/</link>
+    <description>Recent content in evergreen on My deploy preview</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/evergreen/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apreshill.github.io/apero/categories/evergreen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An evergreen post</title>
-      <link>/blog/evergreen/</link>
+      <link>https://apreshill.github.io/apero/blog/evergreen/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/evergreen/</guid>
+      <guid>https://apreshill.github.io/apero/blog/evergreen/</guid>
       <description></description>
     </item>
     

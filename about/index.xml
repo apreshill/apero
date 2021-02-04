@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Hello</title>
-    <link>/about/</link>
-    <description>Recent content in About on Hello</description>
+    <title>About on My deploy preview</title>
+    <link>https://apreshill.github.io/apero/about/</link>
+    <description>Recent content in About on My deploy preview</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://apreshill.github.io/apero/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

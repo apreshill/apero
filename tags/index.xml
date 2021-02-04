@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hello</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Hello</description>
+    <title>Tags on My deploy preview</title>
+    <link>https://apreshill.github.io/apero/tags/</link>
+    <description>Recent content in Tags on My deploy preview</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apreshill.github.io/apero/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>style</title>
-      <link>/tags/style/</link>
+      <link>https://apreshill.github.io/apero/tags/style/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/style/</guid>
+      <guid>https://apreshill.github.io/apero/tags/style/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo-site</title>
-      <link>/tags/hugo-site/</link>
+      <link>https://apreshill.github.io/apero/tags/hugo-site/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/hugo-site/</guid>
+      <guid>https://apreshill.github.io/apero/tags/hugo-site/</guid>
       <description></description>
     </item>
     
