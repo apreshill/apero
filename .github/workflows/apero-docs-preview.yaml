@@ -15,21 +15,10 @@ jobs:
       
       - uses: r-lib/actions/setup-r@v1
 
-      - name: Clean public directory
-        run: rm -rf public
-
-      - name: Install blogdown
+      - name: Install dependencies
         run: |
           install.packages("blogdown")
-        shell: Rscript {0}
-
-      - name: Install hugo
-        run: |
           blogdown::install_hugo("0.79.0", extended=TRUE, force=TRUE)
-        shell: Rscript {0}
-
-      - name: Install theme
-        run: |
           blogdown::install_theme(theme="hugo-apero/hugo-apero@relurl", force=TRUE)
         shell: Rscript {0}
 
